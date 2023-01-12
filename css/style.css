@@ -1,0 +1,30 @@
+[class*="container"]{
+    min-width: 90px;
+    min-height: 50px;
+}
+
+[class*="col"]{
+    border: solid black;
+}
+
+header,
+footer{
+    background-color: black;
+}
+
+.jumbotron,
+.about{
+    background-color: green;
+}
+
+.portfolio{
+    background-color: blue;
+}
+
+.contact{
+    background-color: yellow;
+}
+
+.info{
+    background-color: gray;
+}
