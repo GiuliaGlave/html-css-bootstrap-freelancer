@@ -73,3 +73,8 @@ footer{
     justify-content: center;
     align-items: center;
 }
+
+.btn{
+    background-color: #1abc9c;
+    border: none;
+}
