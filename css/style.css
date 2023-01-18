@@ -3,10 +3,6 @@
     min-height: 50px;
 }
 
-[class*="col"]{
-    border: solid black;
-}
-
 /**** header ****/
 
 header,
@@ -64,7 +60,7 @@ footer{
     color: white;
 }
 
-.row-cols-4 div div {
+.social {
     width: 2rem;
     height: 2rem;
     border: solid thin white;
@@ -76,5 +72,10 @@ footer{
 
 .btn{
     background-color: #1abc9c;
-    border: none;
+    border: solid thin white;
+}
+
+a{
+    color: #1abc9c;
+    text-decoration: none;
 }
